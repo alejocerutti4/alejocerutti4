@@ -5,9 +5,11 @@ I'm a Software Engineer with a specialization in frontend development using Reac
 ## 🌱 What I Do
 
 - 🚀 Frontend Development with ReactJS
-- ⚙️ Backend Development with Various Technologies such as Spring Boot or Node.js.
+- ⚙️ Backend Development with Various Technologies like Spring Boot and Node.js.
 - 🌐 Web Development
 - 📱 Mobile App Development
+- 🤖 AI and Machine Learning
+- ☁️ Cloud Services (e.g., AWS, Azure)
 - 🔥 Full-Stack Projects
 - 🤖 DevOps and Deployment
 
